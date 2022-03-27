@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-date-picker": "^4.2.0",
+    "react-native-element-dropdown": "^1.8.4"
+  }
+}
