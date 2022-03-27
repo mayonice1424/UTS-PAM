@@ -4,7 +4,7 @@
 #### NIM  : 119140133
 #### Pengembangan Aplikasi Mobile - RA
 ```
-<p> Berikut link apk : https://drive.google.com/drive/u/0/folders/1Ylbm8pU9BT_HqrB3EoEKpfxbK1uwF7nN
+<p> Berikut link apk : https://drive.google.com/drive/folders/1Ylbm8pU9BT_HqrB3EoEKpfxbK1uwF7nN?usp=sharing
 </p>
 
 Aplikasi ini dibuat dengan menggunakan react-native dengan module diantaranya navigation dan react-native-vector-icon
